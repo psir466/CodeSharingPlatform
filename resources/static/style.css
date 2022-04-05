@@ -1,0 +1,21 @@
+#load_date {
+    font-size: 12px;
+    color: green;
+}
+
+#code_snippet {
+    font-size: 16px;
+    background-color: grey;
+}
+
+#time_restriction {
+    font-size: 14px;
+    color: red;
+}
+
+#views_restriction {
+    font-size: 14px;
+    color: red;
+}
+
+
